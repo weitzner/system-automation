@@ -1,7 +1,7 @@
 System Automation
 =================
 
-A repository to hold various daemons to keep your system up to date.
+A repository to hold various daemons to keep your OS X system up to date.
 If updates are available, you'l receive an email informing you of what to do.
 
 
